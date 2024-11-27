@@ -26,5 +26,3 @@ I am eager to collaborate with professionals who share different values and pers
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/azraatnr)](https://github.com/Azraatnr)
 
 <hr>
-
-![snake animation](https://github.com/<seu Azraatnr>/<seu Azraatnr>/blob/output/github-contribution-grid-snake2.svg)
