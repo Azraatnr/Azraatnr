@@ -14,7 +14,7 @@ I am eager to collaborate with professionals who share different values and pers
  
 </p>
 
-- :seedling: &nbsp;I’m currently working on my C#
+- :seedling: &nbsp;I’m currently learning about C#
 - :speech_balloon: &nbsp;Ask me any questions!
 
 <hr>
