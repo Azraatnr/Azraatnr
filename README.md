@@ -32,7 +32,8 @@ I am eager to collaborate with professionals who share different values and pers
 
 ## Follow Me
 
-[![Email Badge](https://img.shields.io/badge/-2171662@talnet.nl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2171662@talnet.nl)](mailto:2171662@talnet.nl)
-[![Linkedin Badge](https://img.shields.io/badge/-azraatnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azraatnr/)](www.linkedin.com/in/azra-tuncer-022b70237)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/azraatnr)](https://github.com/Azraatnr)
+[![Email Badge](https://img.shields.io/badge/-2171662@talnet.nl-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:2171662@talnet.nl)
+[![Linkedin Badge](https://img.shields.io/badge/-azraatnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azra-tuncer-022b70237)](https://www.linkedin.com/in/azra-tuncer-022b70237)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Azraatnr)
+
 
