@@ -28,6 +28,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@azraatnr/30-nites-of-code)  
+  ![@azraatnr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=azraatnr)
+  
+
 ## Connect with Me
 
 [![Email Badge](https://img.shields.io/badge/-2171662@talnet.nl-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:2171662@talnet.nl)
