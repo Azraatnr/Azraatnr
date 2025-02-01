@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello World! I'm Azra :)</h1>
-<h4 align="left" align-self="center">A student and software developer at Bit Academy in Amsterdam, I'm passionate about creating creative, and cool designs that bring ideas to life
+<h4 align="left" align-self="center">A student and software developer at Bit Academy in Amsterdam.
+  I'm passionate about creating creative, and cool designs that bring ideas to life
 </h4>
 
 <p align="left">
@@ -13,7 +14,7 @@
  
 </p>
 
-- :seedling: &nbsp;I’m currently learning about C#
+- :seedling: &nbsp;I’m currently learning about C# and working with Unity
 - :speech_balloon: &nbsp;Ask me any questions!
 
 
@@ -26,10 +27,9 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Follow Me
+## Connect with Me
 
 [![Email Badge](https://img.shields.io/badge/-2171662@talnet.nl-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:2171662@talnet.nl)
 [![Linkedin Badge](https://img.shields.io/badge/-azraatnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azra-tuncer-022b70237)](https://www.linkedin.com/in/azra-tuncer-022b70237)
