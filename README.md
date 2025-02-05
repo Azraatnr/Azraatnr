@@ -85,7 +85,7 @@
 <h2>🔔 Connect with Me </h2>
 
 [![Email Badge](https://img.shields.io/badge/-2171662@talnet.nl-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:2171662@talnet.nl)
-[![Linkedin Badge](https://img.shields.io/badge/-azraatnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azra-tuncer-022b70237)](https://www.linkedin.com/in/azra-tuncer-022b70237)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azra-tuncer-022b70237)](https://www.linkedin.com/in/azra-tuncer-022b70237)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Azraatnr)
 
 
