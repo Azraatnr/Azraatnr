@@ -88,5 +88,6 @@
 )](mailto:2171662@talnet.nl)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azra-tuncer-022b70237)](https://www.linkedin.com/in/azra-tuncer-022b70237)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azraatnr)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bloon_27/)
 
 
