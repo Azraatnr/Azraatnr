@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title">:wave: Hello World! I'm Azra :)</h1>
 <h3 align="center">A student and software developer at Bit Academy in Amsterdam.
-  I'm passionate about creating creative, and cool designs that bring ideas to life.
+  I'm passionate about creating creative designs and cool apps that bring ideas to life.
 </h3>
 
 <p align="center">
